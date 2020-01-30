@@ -1,0 +1,2 @@
+"C:\Users\williamw\AppData\Local\Temp\Webex Automation.py\venv\Scripts\python.exe" "C:\Users\williamw\AppData\Local\Temp\Webex Automation.py\WebexAutomation.py" %Username% %Password% %User1% %User2% %text%
+pauses
